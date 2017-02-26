@@ -4,9 +4,9 @@
   <subtitle>梦与实的N种表达</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://aice.me/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2017-02-16T19:31:13.000Z</updated>
-  <id>http://aice.me/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>Aice</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://aice.me/2017/02/17/hello-world/"/>
-    <id>http://aice.me/2017/02/17/hello-world/</id>
+    <link href="http://yoursite.com/2017/02/17/hello-world/"/>
+    <id>http://yoursite.com/2017/02/17/hello-world/</id>
     <published>2017-02-16T19:31:13.000Z</published>
     <updated>2017-02-16T19:31:13.000Z</updated>
     
