@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-26T18:28:24.000Z</updated>
+  <updated>2017-02-26T19:52:40.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,15 +20,14 @@
     <link href="http://yoursite.com/2017/02/27/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
     <id>http://yoursite.com/2017/02/27/第一篇/</id>
     <published>2017-02-26T17:54:15.000Z</published>
-    <updated>2017-02-26T18:28:24.000Z</updated>
+    <updated>2017-02-26T19:52:40.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;em&gt;如果你看到这篇文章&lt;/em&gt;&lt;br&gt;说明可能  &lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/uploads/iceart.jpeg&quot; alt=&quot;iceart_aice&quot;&gt;&lt;br&gt;&lt;strong&gt;如果你正在阅读这篇文章&lt;/strong&gt;&lt;br&gt;可能说明：  &lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;em&gt;你认识我，并且我们交流过，尤其是你还欣赏我&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;你认识我，仅仅是知道我，更多的是好奇吧&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;你并不认识我（恭喜你，撞见
+&lt;li&gt;你认识我，并且我们交流过，尤其是你还欣赏我  &lt;/li&gt;
+&lt;
     
     </summary>
     
